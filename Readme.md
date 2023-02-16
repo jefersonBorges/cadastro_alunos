@@ -1,5 +1,3 @@
-Nesta aplicação temos um sistema de Cadastro, Leitura, Edição e Exclusão de dados referentes ao cadastro de alunos.
-
 # cadastro_alunos
 
 ## 💬 About
